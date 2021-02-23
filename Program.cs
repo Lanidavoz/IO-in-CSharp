@@ -23,7 +23,9 @@ namespace files_module
             Directory.CreateDirectory(salesTotalDir);
             var files = FindFiles(storesDirectory);
             File.WriteAllText(Path.Combine(salesTotalDir, "totals.txt"), String.Empty);
-            
+
+            Console.WriteLine(File.ReadAllText($"stores{Path.DirectorySeparatorChar}201{Path.DirectorySeparatorChar}Sales.json"));
+
             foreach (var file in salesFiles)
             {
                 Console.WriteLine(file);
