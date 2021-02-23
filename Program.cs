@@ -17,6 +17,11 @@ namespace files_module
 
             var salesFiles = FindFiles(storesDirectory);
 
+            var salesTotalDir = Path.Combine(currentDirectory, "salesTotalDir");
+            Console.WriteLine("salesTotalDir");
+            
+            Directory.CreateDirectory(salesTotalDir);
+
             foreach (var file in salesFiles)
             {
                 Console.WriteLine(file);
