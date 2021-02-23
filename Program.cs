@@ -19,9 +19,11 @@ namespace files_module
 
             var salesTotalDir = Path.Combine(currentDirectory, "salesTotalDir");
             Console.WriteLine("salesTotalDir");
-            
-            Directory.CreateDirectory(salesTotalDir);
 
+            Directory.CreateDirectory(salesTotalDir);
+            var files = FindFiles(storesDirectory);
+            File.WriteAllText(Path.Combine(salesTotalDir, "totals.txt"), String.Empty);
+            
             foreach (var file in salesFiles)
             {
                 Console.WriteLine(file);
