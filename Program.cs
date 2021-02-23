@@ -10,6 +10,7 @@ namespace files_module
         {
 
             Directory.CreateDirectory(Path.Combine(Directory.GetCurrentDirectory(), "stores", "201", "NewDir"));
+            File.WriteAllText(Path.Combine(Directory.GetCurrentDirectory(), "greeting.txt"), "Hello World!");
 
             var currentDirectory = Directory.GetCurrentDirectory();
             var storesDirectory = Path.Combine(currentDirectory, "stores");
