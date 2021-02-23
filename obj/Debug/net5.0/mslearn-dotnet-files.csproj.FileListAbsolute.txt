@@ -1,0 +1,16 @@
+/home/scooter/Azure_Sandbox/mslearn-dotnet-files/bin/Debug/net5.0/mslearn-dotnet-files
+/home/scooter/Azure_Sandbox/mslearn-dotnet-files/bin/Debug/net5.0/mslearn-dotnet-files.deps.json
+/home/scooter/Azure_Sandbox/mslearn-dotnet-files/bin/Debug/net5.0/mslearn-dotnet-files.runtimeconfig.json
+/home/scooter/Azure_Sandbox/mslearn-dotnet-files/bin/Debug/net5.0/mslearn-dotnet-files.runtimeconfig.dev.json
+/home/scooter/Azure_Sandbox/mslearn-dotnet-files/bin/Debug/net5.0/mslearn-dotnet-files.dll
+/home/scooter/Azure_Sandbox/mslearn-dotnet-files/bin/Debug/net5.0/ref/mslearn-dotnet-files.dll
+/home/scooter/Azure_Sandbox/mslearn-dotnet-files/bin/Debug/net5.0/mslearn-dotnet-files.pdb
+/home/scooter/Azure_Sandbox/mslearn-dotnet-files/obj/Debug/net5.0/mslearn-dotnet-files.csprojAssemblyReference.cache
+/home/scooter/Azure_Sandbox/mslearn-dotnet-files/obj/Debug/net5.0/mslearn-dotnet-files.GeneratedMSBuildEditorConfig.editorconfig
+/home/scooter/Azure_Sandbox/mslearn-dotnet-files/obj/Debug/net5.0/mslearn-dotnet-files.AssemblyInfoInputs.cache
+/home/scooter/Azure_Sandbox/mslearn-dotnet-files/obj/Debug/net5.0/mslearn-dotnet-files.AssemblyInfo.cs
+/home/scooter/Azure_Sandbox/mslearn-dotnet-files/obj/Debug/net5.0/mslearn-dotnet-files.csproj.CoreCompileInputs.cache
+/home/scooter/Azure_Sandbox/mslearn-dotnet-files/obj/Debug/net5.0/mslearn-dotnet-files.dll
+/home/scooter/Azure_Sandbox/mslearn-dotnet-files/obj/Debug/net5.0/ref/mslearn-dotnet-files.dll
+/home/scooter/Azure_Sandbox/mslearn-dotnet-files/obj/Debug/net5.0/mslearn-dotnet-files.pdb
+/home/scooter/Azure_Sandbox/mslearn-dotnet-files/obj/Debug/net5.0/mslearn-dotnet-files.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/scooter/.dotnet/store/|arch|/|tfm|",
+      "/home/scooter/.nuget/packages"
+    ]
+  }
+}

@@ -8,6 +8,9 @@ namespace files_module
     {
         static void Main(string[] args)
         {
+
+            Directory.CreateDirectory(Path.Combine(Directory.GetCurrentDirectory(), "stores", "201", "NewDir"));
+
             var currentDirectory = Directory.GetCurrentDirectory();
             var storesDirectory = Path.Combine(currentDirectory, "stores");
 
@@ -21,6 +24,7 @@ namespace files_module
 
         static IEnumerable<string> FindFiles(string folderName)
         {
+
             List<string> salesFiles = new List<string>();
 
             var foundFiles = Directory.EnumerateFiles(folderName, "*", SearchOption.AllDirectories);
