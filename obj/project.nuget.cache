@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uW2ZgjBYEP0OASOrRfYGWpFyN/DY9J59D8tfvI6goyajqXUn0oAxTtRqSNAaTF1FqsG+wpmIStBMSovO3M+6Gg==",
+  "dgSpecHash": "m9KmI1lNnlfdk7UD343hGxV8cQFGdvvsHMSA484/qXK7bLm/s255GMFq3rvMCDyNL8tCPxJ62N4Ntq2xmnXtQQ==",
   "success": true,
   "projectFilePath": "/home/scooter/Azure_Sandbox/mslearn-dotnet-files/mslearn-dotnet-files.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/scooter/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
