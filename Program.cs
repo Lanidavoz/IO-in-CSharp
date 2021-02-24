@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Collections.Generic;
+using Newtonsoft.Json;
 
 namespace files_module
 {
@@ -48,6 +49,11 @@ namespace files_module
             }
 
             return salesFiles;
+        }
+
+        class SalesTotal
+        {
+        public double Total { get; set; }
         }
     }
 }
